@@ -1,0 +1,25 @@
+.controls{
+    position:relative;
+    top:0;
+}
+
+.plot{
+    width:10%;
+    min-height:100%;
+    /*margin:10px 0;*/
+    background:white;
+    float:left;
+}
+
+.histogram .bin{
+    fill:rgb(180,180,180);
+}
+
+.area{
+    fill:rgba(200,200,200,.5);
+}
+.line{
+    fill:none;
+    stroke:rgb(80,80,80);
+    stroke-width:1px;
+}
